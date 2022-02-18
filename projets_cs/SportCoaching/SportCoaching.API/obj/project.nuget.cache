@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiJqlw47rCEb2wU5Z1fk3IJeANOQFur4v9mIDzjiIZ/ILwRA9Z2fezKR5s3gASdMEG0WxGaOpXionGdkchL2TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\Desktop\\projets_cs\\SportCoaching\\SportCoaching.API\\SportCoaching.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.5\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
